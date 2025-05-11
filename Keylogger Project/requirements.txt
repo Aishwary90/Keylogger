@@ -1,0 +1,9 @@
+For the code to work, you need to install the following packages:
+# requirements.txt  
+# This file contains the list of required packages for the project.
+# You can install them using pip:              
+# pip install -r requirements.txt
+# requirements.txt  
+
+use pip to install the required packages
+pip install pynput #for keyboard and mouse events
